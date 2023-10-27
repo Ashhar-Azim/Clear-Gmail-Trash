@@ -1,0 +1,48 @@
+# Ignore Gmail API log file
+gmail_api_tool.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+env/
+.venv/
+
+# Ignore IDE and code editor files
+.vscode/
+.idea/
+*.suo
+*.sln
+*.user
+*.suo
+*.user
+*.suo
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+
+# Ignore user-specific configuration files
+*.ini
+
+# Ignore database files
+*.db
+
+# Ignore compiled files
+*.class
+
+# Ignore dependency files
+*.dep
+*.bak
+*.swp
+
+# Ignore coverage reports
+htmlcov/
+
+# Ignore temporary files
+*~
