@@ -41,17 +41,17 @@ The Gmail API Email Deletion Tool is a Python script with a graphical user inter
 
 ## Usage
 
-     Enter filtering criteria in the GUI, including keywords, sender, subject, attachment presence, and email size.
-     Click "Delete Emails" to delete matching emails, and confirm the deletion when prompted.
-     Use the "Toggle Dark Theme" button to switch between dark and light themes for the GUI.
+   Enter filtering criteria in the GUI, including keywords, sender, subject, attachment presence, and email size.
+   Click "Delete Emails" to delete matching emails, and confirm the deletion when prompted.
+   Use the "Toggle Dark Theme" button to switch between dark and light themes for the GUI.
 
 ## Logging
 
-     The script logs actions to a file named gmail_api_log.txt. This log file includes timestamps, log levels, and relevant messages.
+   The script logs actions to a file named gmail_api_log.txt. This log file includes timestamps, log levels, and relevant messages.
 
 ## Contributions
 
-     This Project is in development. Please feel free to contribute
+   This Project is in development. Please feel free to contribute
 
 ## Warning
 
