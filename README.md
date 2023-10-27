@@ -35,7 +35,7 @@ The Gmail API Email Deletion Tool is a Python script with a graphical user inter
 
 3. Run the script using Python:
 
-     ```python gmail_api_tool.py```
+     ```python main.py```
 
 4. Use the graphical interface to configure filtering criteria and delete emails.
 
